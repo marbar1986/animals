@@ -1,0 +1,91 @@
+{
+  "Easy": [
+    {
+      "name": "zenek",
+      "score": 58,
+      "id": 1
+    },
+    {
+      "name": "janek",
+      "score": 41,
+      "id": 2
+    },
+    {
+      "name": "gadzina",
+      "score": 52,
+      "id": 3
+    },
+    {
+      "name": "Polewka",
+      "score": 68,
+      "id": 4
+    },
+    {
+      "name": "bandyta",
+      "score": 61,
+      "id": 5
+    },
+    {
+      "name": "Babcia",
+      "score": 51,
+      "id": 6
+    },
+    {
+      "name": "zonk",
+      "score": 67,
+      "id": 7
+    },
+    {
+      "name": "dsasdasd",
+      "score": 68,
+      "id": 8
+    },
+    {
+      "name": "joker",
+      "score": 93,
+      "id": 9
+    }
+  ],
+  "Medium": [
+    {
+      "name": "biskup",
+      "score": 145,
+      "id": 1
+    },
+    {
+      "name": "palant",
+      "score": 178,
+      "id": 2
+    },
+    {
+      "name": "Staszek",
+      "score": 184,
+      "id": 3
+    }
+  ],
+  "Hard": [
+    {
+      "name": "rekawica",
+      "score": 323,
+      "id": 1
+    },
+    {
+      "name": "ogier",
+      "score": 345,
+      "id": 2
+    },
+    {
+      "name": "eunuh",
+      "score": 378,
+      "id": 3
+    },
+    {
+      "name": "koka",
+      "score": 378,
+      "id": 4
+    }
+  ],
+  "Question": [
+  
+  ]
+}
