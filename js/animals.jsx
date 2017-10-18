@@ -244,7 +244,7 @@ componentWillUnmount() {
         <div className="QuestionAnimal">
             <h3>Ask the animal about:</h3>
             <div className="Question1" onClick={this.handleClick} data-id="first">
-            Ho you are?
+            Who are you?
             </div>
             <div className="Question2" onClick={this.handleClick} data-id="second">
             Where are you from?
