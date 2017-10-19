@@ -5,7 +5,7 @@ Used technologies:
 - Sass
 - JavaScript
 - React
-- Jquerry
+- jQuery
 
 My target is to create this project, was learning the basics react, routing and download and send data to json server using fetch.
 In addition, I wanted to train the basic functions JavaScript and reminder HTML, CSS and RWD.
