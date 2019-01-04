@@ -30,7 +30,7 @@
     "sass-loader": "^6.0.6",
     "style-loader": "^0.19.0",
     "webpack": "^3.5.5",
-    "webpack-dev-server": "^2.8.2"
+    "webpack-dev-server": "^3.1.11"
   },
   "bugs": {
     "url": "https://github.com/marbar1986/animals/issues"
