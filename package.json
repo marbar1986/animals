@@ -17,6 +17,7 @@
     "react": "^15.4.0",
     "react-dom": "^15.4.0",
     "react-router": "^3.0.3",
+    "websocket-extensions": "^0.1.4",
     "whatwg-fetch": "^2.0.3"
   },
   "devDependencies": {
@@ -28,11 +29,11 @@
     "css-loader": "^3.0.0",
     "lodash": "^4.17.14",
     "minimist": "^1.2.5",
-    "node-sass": "^4.13.1",
+    "node-sass": "^4.14.1",
     "sass-loader": "^6.0.6",
     "style-loader": "^0.19.0",
     "webpack": "^3.5.5",
-    "webpack-dev-server": "^3.1.11"
+    "webpack-dev-server": "^3.11.0"
   },
   "bugs": {
     "url": "https://github.com/marbar1986/animals/issues"
