@@ -13,7 +13,7 @@
   "author": "marbar1986",
   "license": "ISC",
   "dependencies": {
-    "elliptic": "^6.5.3",
+    "elliptic": "^6.5.4",
     "install": "^0.13.0",
     "json-server": "^0.16.1",
     "node-fetch": "^2.6.1",
