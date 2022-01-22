@@ -16,7 +16,7 @@
     "hosted-git-info": "^2.8.9",
     "install": "^0.13.0",
     "json-server": "^0.16.1",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.1.1",
     "node-forge": "^0.10.0",
     "npm": "^6.14.8",
     "react": "^17.0.2",
